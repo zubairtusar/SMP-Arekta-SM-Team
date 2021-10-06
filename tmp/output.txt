@@ -1,0 +1,7 @@
+
+C:\Users\User\Desktop\SMP\Scripts\Movie_Mine-main\movie_mine\src\components\Searchbar.js
+  1:1   error  File has too many lines (23). Maximum allowed is 0          max-lines
+  3:19  error  Arrow function has a complexity of 1. Maximum allowed is 0  complexity
+
+✖ 2 problems (2 errors, 0 warnings)
+

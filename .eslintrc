@@ -1,0 +1,16 @@
+{
+    "parser": "babel-eslint",
+    "rules": {
+        "eqeqeq":"error",
+        "block-scoped-var":"error",
+        "complexity": ["error", { "max": 0 }],
+        "grouped-accessor-pairs":"error",
+        "max-classes-per-file": ["error", 1],
+        "no-empty-function" :"error",
+        "no-empty-pattern":"error",
+        "no-useless-return":"error",
+        "no-unused-expressions":"error",
+        "max-depth": ["error", { "max": 1 }],
+        "max-lines": ["error", { "max": 0 }]
+    }
+  }

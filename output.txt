@@ -1,0 +1,12 @@
+
+C:\Users\User\Desktop\SMP\Scripts\test.jsx
+  25:12  warning  Expected '===' and instead saw '=='                                                 eqeqeq
+  27:15  warning  Expected '===' and instead saw '=='                                                 eqeqeq
+  31:35  warning  Array.prototype.sort() expects a value to be returned at the end of arrow function  array-callback-return
+  45:15  warning  Expected '===' and instead saw '=='                                                 eqeqeq
+  50:35  warning  Array.prototype.sort() expects a value to be returned at the end of arrow function  array-callback-return
+  64:15  warning  Expected '===' and instead saw '=='                                                 eqeqeq
+  80:15  warning  Expected '===' and instead saw '=='                                                 eqeqeq
+
+✖ 7 problems (0 errors, 7 warnings)
+
