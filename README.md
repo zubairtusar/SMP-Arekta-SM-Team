@@ -8,6 +8,7 @@ Install eslint using npm. Use maximum capabilities options while configuring esl
 
 ```sh
 npm install eslint --save-dev
+npm install babel-eslint --save-dev
 npx eslint --init
 ```
 
