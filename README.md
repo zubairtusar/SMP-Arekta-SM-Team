@@ -18,5 +18,5 @@ npx eslint --init
 - make sure to have python installed.Run
 
 ```sh
-python eslint.py
+python main.py
 ```
